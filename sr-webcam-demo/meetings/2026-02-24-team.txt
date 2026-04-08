@@ -1,0 +1,33 @@
+Meeting Type: Team-Only
+Date: 2026-02-24
+Start–End Time: 6:45–7:30 PM
+Location/Mode: Discord
+
+Attendees:
+-Loi
+-Jian
+-Baron
+
+1) Accomplished Since Last Meeting
+-Initial inference optimization completed
+-Tools section partially expanded
+-Pipeline profiling results documented
+
+2) Accomplished During This Meeting
+-Reviewed workbook progress
+-Identified missing risk analysis and contingency planning
+-Discussed hardware and deployment clarification
+
+
+3) Issues / Blockers
+-Tech stack not fully confirmed
+-Need clearer justification of selected frameworks
+
+4) Action Items
+-Action: Finalize optimization approach decision | Owner: Jian | Due: 2026-02-27
+-Action: Confirm backend frameworks and hardware specs | Owner: Baron | Due: 2026-02-27
+-Action: Draft risk assessment section | Owner: Loi | Due: 2026-02-27
+
+5) Plans / Goals for Next Meeting
+-Prepare near-final workbook draft
+-Ensure tools and technologies section is concrete

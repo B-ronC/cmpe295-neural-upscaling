@@ -1,0 +1,34 @@
+Meeting Type: Team-Only
+Date: 2026-02-18
+Start–End Time: 7:15–8:15 PM
+Location/Mode: Discord
+
+Attendees:
+-Loi
+-Jian
+-Baron
+
+1) Accomplished Since Last Meeting
+-Baseline benchmarks completed
+-Timing instrumentation integrated
+-Workbook methodology draft started
+
+
+2) Accomplished During This Meeting
+-Reviewed benchmark performance results
+-Identified inference latency bottlenecks
+-Discussed optimization strategies
+
+
+3) Issues / Blockers
+-Latency above real-time target
+-Tools/technologies section still vague
+
+4) Action Items
+-Action: Optimize inference backend (ONNX/TorchScript testing) | Owner: Jian | Due: 2026-02-21
+-Action: Profile pipeline bottlenecks | Owner: Baron | Due: 2026-02-21
+-Action: Expand tools and technologies section draft | Owner: Loi | Due: 2026-02-21
+
+5) Plans / Goals for Next Meeting
+-Improve real-time performance
+-Strengthen workbook documentation

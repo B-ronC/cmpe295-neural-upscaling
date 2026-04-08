@@ -1,0 +1,36 @@
+Meeting Type: Team-Only
+Date: 2026-03-02
+Start–End Time: 7:00–8:00 PM
+Location/Mode: Discord
+
+Attendees:
+-Loi
+-Jian
+-Baron
+
+1) Accomplished Since Last Meeting
+-Optimization approach finalized
+-Tools and technologies section clarified
+-Risk assessment drafted
+
+
+2) Accomplished During This Meeting
+-Reviewed full workbook draft
+-Prepared questions for upcoming advisor meeting
+-Confirmed prototype stability and benchmark summary
+
+
+3) Issues / Blockers
+-Minor formatting inconsistencies in workbook
+-Need clearer explanation of optimization workflow
+
+
+4) Action Items
+-Action: Final formatting and proofreading of workbook | Owner: Loi | Due: 2026-03-04
+-Action: Refine optimization explanation in methodology | Owner: Jian | Due: 2026-03-04
+-Action: Prepare demo materials for advisor meeting | Owner: Baron | Due: 2026-03-04
+
+
+5) Plans / Goals for Next Meeting
+-Present finalized workbook draft on March 5
+-Confirm technical stack and evaluation plan

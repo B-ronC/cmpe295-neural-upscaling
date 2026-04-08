@@ -1,0 +1,32 @@
+Meeting Type: Team-Only
+Date: 2026-02-07
+Start–End Time: 7:00–7:45 PM
+Location/Mode: Discord
+
+Attendees:
+-Loi
+-Jian
+-Baron
+
+1) Accomplished Since Last Meeting
+-Reviewed advisor feedback from Feb 5 meeting
+-Identified sections needing abstract revision
+-Discussed scope expansion ideas
+
+2) Accomplished During This Meeting
+-Revised abstract introduction
+-Clarified project problem statement
+-Agreed on expanding evaluation scope
+
+3) Issues / Blockers
+-Need clearer methodology explanation
+-Evaluation metrics not finalized
+
+4) Action Items
+-Action: Update abstract draft | Owner: Jian | Due: 2026-02-09
+-Action: Refine system architecture diagram | Owner: Baron | Due: 2026-02-09
+-Action: Research evaluation datasets and benchmarks | Owner: Loi | Due: 2026-02-09
+
+5) Plans / Goals for Next Meeting
+-Define evaluation metrics
+-Finalize abstract revisions
