@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+sr-webcam-demo/.venv/
+sr-webcam-demo/.venv311/
+sr-webcam-demo/weights/
+sr-webcam-demo/model/
+
+# OS
+.DS_Store
+Thumbs.db
