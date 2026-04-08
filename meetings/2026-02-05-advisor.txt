@@ -1,0 +1,35 @@
+Meeting Type: Advisor
+Date: 2026-02-05
+Start–End Time: 6:00–6:30 PM
+Location/Mode: Zoom
+
+Attendees:
+-Loi
+-Jian
+-Baron
+-Jun Liu
+
+1) Accomplished Since Last Meeting
+-Drafted initial project abstract
+-Identified candidate super-resolution models
+-Outlined preliminary system architecture
+
+2) Accomplished During This Meeting
+-Discussed abstract structure and clarity
+-Reviewed project scope and expectations
+-Gathered feedback on feasibility and depth
+
+3) Issues / Blockers
+-Abstract introduction too broad
+-Methodology details insufficient
+-Scope may be too limited for a year-long project
+
+4) Action Items
+-Action: Merge introductory paragraphs and focus abstract more specifically on problem statement | Owner: Jian | Due: 2026-02-12
+-Action: Expand methodology section with clearer technical details | Owner: Baron | Due: 2026-02-12
+-Action: Propose ways to expand project scope | Owner: Loi | Due: 2026-02-12
+
+5) Plans / Goals for Next Meeting
+-Present revised abstract
+-Finalize refined project scope
+-Confirm evaluation methodology
