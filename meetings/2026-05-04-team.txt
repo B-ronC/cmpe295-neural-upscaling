@@ -1,0 +1,29 @@
+Meeting Type: Team-Only
+Date: 2026-05-04
+Start-End Time: 6:00-7:20 PM
+Location/Mode: Discord
+
+Attendees:
+-Loi
+-Jian
+-Baron
+
+1) Accomplished Since Last Meeting
+-System stabilized for real-time demo
+-Benchmark results finalized
+
+2) Accomplished During This Meeting
+-Finalized modular architecture (capture → preprocess → inference → display)
+-Polished UI (metrics overlay, toggles, display)
+-Prepared demo script and walkthrough
+
+3) Issues / Blockers
+-Minor UI and usability improvements needed
+
+4) Action Items
+-Fix UI issues and polish demo | Jian
+-Final system testing and validation | Baron
+-Finalize presentation slides | Loi
+
+5) Plans / Goals
+-Be fully ready for final demo (May 8)

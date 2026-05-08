@@ -1,0 +1,33 @@
+Meeting Type: Team-Only
+Date: 2026-03-23
+Start–End Time: 6:00–6:35 PM
+Location/Mode: Discord
+
+Attendees:
+-Loi
+-Jian
+-Baron
+
+1) Accomplished Since Last Meeting
+-Completed initial methodology draft
+-Updated architecture diagram with clearer labels
+-Reviewed candidate datasets and benchmarks
+
+2) Accomplished During This Meeting
+-Selected preliminary evaluation metrics
+-Discussed implementation progress and testing needs
+-Identified report sections requiring more detail
+
+3) Issues / Blockers
+-Need consistent formatting across report sections
+-Evaluation metric definitions need more explanation
+
+4) Action Items
+-Action: Add evaluation metric definitions to report | Owner: Loi | Due: 2026-04-02
+-Action: Revise implementation section | Owner: Jian | Due: 2026-04-02
+-Action: Prepare updated system diagram export | Owner: Baron | Due: 2026-04-02
+
+5) Plans / Goals for Next Meeting
+-Review updated report sections
+-Confirm evaluation procedure
+-Plan testing schedule

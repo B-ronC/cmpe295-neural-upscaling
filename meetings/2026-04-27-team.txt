@@ -1,0 +1,30 @@
+Meeting Type: Team-Only
+Date: 2026-04-27
+Start-End Time: 6:30-7:15 PM
+Location/Mode: Discord
+
+Attendees:
+-Loi
+-Jian
+-Baron
+
+1) Accomplished Since Last Meeting
+-Completed evaluation metrics calculations
+-Generated benchmark results
+
+2) Accomplished During This Meeting
+-Integrated downstream CV testing (enhanced frames into pipeline)
+-Tested system under continuous streaming conditions
+-Improved robustness and fallback handling
+
+3) Issues / Blockers
+-Limited time for full CV evaluation
+-Minor stability issues under stress
+
+4) Action Items
+-Finalize benchmark summaries | Jian
+-Improve system robustness | Baron
+
+5) Plans / Goals
+-Prepare demo-ready system
+-Finalize architecture and documentation

@@ -1,0 +1,35 @@
+Meeting Type: Team-Only
+Date: 2026-03-23
+Start–End Time: 7:00–7:45 PM
+Location/Mode: Discord
+
+Attendees:
+-Loi
+-Jian
+-Baron
+
+1) Accomplished Since Last Meeting
+-Completed environment setup and verified camera capture functionality
+-Ran pretrained super-resolution model on images and offline video
+-Confirmed inference runtime (CPU/GPU) is working
+
+2) Accomplished During This Meeting
+-Built prototype real-time pipeline (capture → preprocess → inference → display)
+-Implemented basic preprocessing (resize, normalization, color conversion)
+-Verified end-to-end frame processing works with live webcam
+-Added initial FPS and latency measurement
+
+3) Issues / Blockers
+-Pipeline not yet meeting real-time FPS target
+-Frame processing introduces noticeable delay
+-Need optimization in preprocessing and inference
+
+4) Action Items
+-Action: Optimize preprocessing and reduce overhead | Owner: Baron | Due: 2026-03-25
+-Action: Test GPU acceleration and runtime configs | Owner: Jian | Due: 2026-03-25
+-Action: Improve latency measurement and logging | Owner: Loi | Due: 2026-03-25
+
+5) Plans / Goals for Next Meeting
+-Improve real-time performance
+-Implement fallback mechanism if latency exceeds threshold
+-Continue optimizing pipeline

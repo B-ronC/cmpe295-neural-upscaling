@@ -1,0 +1,30 @@
+Meeting Type: Team-Only
+Date: 2026-04-06
+Start-End Time: 5:00-5:39 PM
+Location/Mode: Discord
+
+Attendees:
+-Loi
+-Jian
+-Baron
+
+1) Accomplished Since Last Meeting
+-Improved latency and FPS stability
+-Verified GPU acceleration works
+
+2) Accomplished During This Meeting
+-Implemented fallback mechanism (bypass SR when latency is high)
+-Added toggle to enable/disable SR during runtime
+-Improved system stability under load
+
+3) Issues / Blockers
+-Quality vs speed tradeoff not finalized
+-Some models still too slow
+
+4) Action Items
+-Compare multiple SR models | Jian
+-Improve fallback threshold logic | Baron
+
+5) Plans / Goals
+-Select best model for real-time use
+-Begin structured benchmarking

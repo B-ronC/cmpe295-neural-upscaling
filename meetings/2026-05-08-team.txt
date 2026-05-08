@@ -1,0 +1,33 @@
+Meeting Type: Team-Only
+Date: 2026-05-08
+Start-End Time: 6:10-7:25 PM
+Location/Mode: Discord
+
+Attendees:
+-Loi
+-Jian
+-Baron
+
+1) Accomplished Since Last Meeting
+-Completed system optimization and stabilization
+-Finalized evaluation metrics (FPS, latency, PSNR, SSIM)
+-Prepared full demo pipeline and UI
+
+2) Accomplished During This Meeting
+-Conducted final live demo of real-time super-resolution system
+-Demonstrated full pipeline: capture → preprocessing → SR inference → display
+-Showed real-time metrics overlay (FPS, latency) and quality improvements
+-Verified fallback behavior under high latency conditions
+-Practiced presentation walkthrough
+
+3) Issues / Blockers
+-Minor UI clarity issues during demo
+-Occasional performance fluctuation depending on hardware
+
+4) Action Items
+-Action: Finalize and submit project deliverables | Owner: Team | Due: 2026-05-08
+-Action: Polish presentation slides and documentation | Owner: Loi | Due: 2026-05-08
+
+5) Plans / Goals
+-Submit final report and demo package
+-Complete project presentation

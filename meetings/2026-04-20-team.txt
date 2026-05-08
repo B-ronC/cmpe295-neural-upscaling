@@ -1,0 +1,29 @@
+Meeting Type: Team-Only
+Date: 2026-04-20
+Start-End Time: 6:00-6:30 PM
+Location/Mode: Discord
+
+Attendees:
+-Loi
+-Jian
+-Baron
+
+1) Accomplished Since Last Meeting
+-Dataset collected for evaluation
+-Stable model configuration selected
+
+2) Accomplished During This Meeting
+-Implemented PSNR and SSIM evaluation metrics
+-Generated before/after comparison results
+-Evaluated visual quality improvements
+
+3) Issues / Blockers
+-Metric computation pipeline still manual
+-Need better visualization for comparisons
+
+4) Action Items
+-Automate evaluation pipeline | Jian
+-Improve comparison visualization | Loi
+
+5) Plans / Goals
+-Integrate evaluation results into system

@@ -1,0 +1,29 @@
+Meeting Type: Team-Only
+Date: 2026-04-13
+Start-End Time: 5:20-6:00 PM
+Location/Mode: Discord
+
+Attendees:
+-Loi
+-Jian
+-Baron
+
+1) Accomplished Since Last Meeting
+-Tested multiple SR models
+-Identified candidate lightweight model
+
+2) Accomplished During This Meeting
+-Selected model optimized for real-time performance
+-Began collecting performance metrics (FPS, latency)
+-Tested different upscale factors (e.g., 2×)
+
+3) Issues / Blockers
+-Need consistent dataset for evaluation
+-Some visual artifacts in outputs
+
+4) Action Items
+-Gather evaluation dataset | Loi
+-Fine-tune model settings | Baron
+
+5) Plans / Goals
+-Start quality evaluation (PSNR/SSIM)
