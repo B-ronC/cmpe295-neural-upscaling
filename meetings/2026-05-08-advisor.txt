@@ -1,0 +1,35 @@
+Meeting Type: Advisor
+Date: 2026-05-08
+Start–End Time: 7:30–8:00 PM
+Location/Mode: Zoom
+
+Attendees:
+-Loi
+-Jian
+-Baron
+-Jun Liu
+
+1) Accomplished Since Last Meeting
+-Completed draft of project workbook (architecture, design, evaluation sections)
+-Included figures for system architecture, pipeline, and UI mockups
+-Finalized initial documentation for submission
+
+2) Accomplished During This Meeting
+-Received advisor feedback on project workbook
+-Identified improvements for figure formatting and readability
+-Noted need to improve visual clarity and presentation quality
+
+3) Issues / Blockers
+-Some figures are too large or wide, reducing readability
+-Missing or insufficient captions for certain diagrams
+-Overall document formatting needs refinement
+
+4) Action Items
+-Action: Resize figures for better readability | Owner: Baron | Due: 2026-05-08
+-Action: Add descriptive captions to all figures | Owner: Jian | Due: 2026-05-08
+-Action: Review and improve document formatting consistency | Owner: Loi | Due: 2026-05-08
+
+5) Plans / Goals for Next Meeting
+-Revised workbook with improved visuals
+-Ensure all figures are clearly labeled and readable
+-Continue refining documentation quality
